@@ -1,0 +1,11 @@
+{
+  "name": "@lagrandeferme/schemas",
+  "version": "0.1.0",
+  "description": "Schémas de validation Zod partagés entre le backend, le web et le mobile de La Grande Ferme Participative.",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "peerDependencies": {
+    "zod": "^3.23.0"
+  }
+}
